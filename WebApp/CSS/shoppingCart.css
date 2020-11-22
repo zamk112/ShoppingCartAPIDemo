@@ -1,0 +1,26 @@
+﻿.shoppingCart {
+    display: block;
+}
+
+table {
+    width: 100%;
+    table-layout: auto;
+}
+
+td, th {
+    width: 4em;
+    height: 2em;
+    border: 1px solid #ccc;
+    text-align: center;
+}
+
+th {
+    background: lightBlue;
+    border-color: white;
+}
+
+td#nameShippingCost, td#shippingCost {
+    font-weight: bold;
+}
+
+

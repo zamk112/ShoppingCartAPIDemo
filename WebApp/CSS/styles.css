@@ -1,0 +1,80 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.page {
+    font-family: "Helvetica", "Arial", sans-serif;
+    width: 1000px;
+    margin: 0 auto;
+    background-color: #EEEEEE;
+}
+
+.logo {
+    height: 100px;
+    font-size: 48px;
+    text-align: center;
+    padding: 20px;
+    color: #414141;
+}
+
+#viewBasketCheckOut {
+    height: 20px;
+}
+
+#viewBasketCheckOutButton {
+    display: block;
+    text-decoration: none;
+    background-color: #EEB75A;
+    color: #FFF;
+    text-align: center;
+    padding: 2px;
+    border: 2px solid #5D6063;
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#viewBasketCheckOutButton:hover {
+    color: #FFF;
+    background-color: #FFCC66;
+}
+
+.buttonAddoRemove {
+    text-decoration: none;
+    cursor: pointer;
+    color: #FFF;
+    background-color: #336699;
+    font-weight: bold;
+    padding: 2px;
+    text-align: center;
+    
+    border-radius: 5px;
+    margin-top: 50px;
+    outline: none;
+}
+
+.buttonAddoRemove:hover {
+    background-color: #76AEED;
+}
+
+.buttonAddoRemove:active {
+    color: #FFF;
+    background-color: #76AEED;
+    transform: translateY(4px);
+}
+
+.thankYouMessage {
+    font-size: 32px;
+    text-align: center;
+    padding: 20px;
+}
+
+#errorMessage {
+    display: none;
+    text-align: center;
+    color: #ff0000;
+    background-color: #ffb3b3;
+    font-weight: bold
+}

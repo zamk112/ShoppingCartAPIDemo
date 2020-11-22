@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CheckOutList>
+  <ShippingCost>10</ShippingCost>
+  <Item>
+    <Id>1</Id>
+    <ProductId>6</ProductId>
+    <Name>Pen</Name>
+    <Qty>1</Qty>
+    <Cost>0.5</Cost>
+  </Item>
+</CheckOutList>

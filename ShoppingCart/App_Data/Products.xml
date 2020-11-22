@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Products>
+  <Product>
+    <Id>1</Id>
+    <Name>Camera</Name>
+    <Cost>50.0</Cost>
+    <Image>CameraImage</Image>
+  </Product>
+  <Product>
+    <Id>2</Id>
+    <Name>Keyboard</Name>
+    <Cost>10.75</Cost>
+    <Image>KeyboardImage</Image>
+  </Product>
+  <Product>
+    <Id>3</Id>
+    <Name>Book</Name>
+    <Cost>3.00</Cost>
+    <Image>BookImage</Image>
+  </Product>
+  <Product>
+    <Id>4</Id>
+    <Name>Salad</Name>
+    <Cost>4.50</Cost>
+    <Image>SaladImage</Image>
+  </Product>
+  <Product>
+    <Id>5</Id>
+    <Name>Potatos</Name>
+    <Cost>5.00</Cost>
+    <Image>PotatosImage</Image>
+  </Product>
+  <Product>
+    <Id>6</Id>
+    <Name>Pen</Name>
+    <Cost>0.50</Cost>
+    <Image>PenImage</Image>
+  </Product>
+</Products>

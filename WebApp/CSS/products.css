@@ -1,0 +1,32 @@
+﻿#products {
+    overflow: hidden;
+    background-color: #EEEEEE;
+}
+
+.product {
+    float: left;
+    width: 31%;
+    margin: 10px 1.15%;
+    padding-top: 5px;
+    height: 75px;
+    background-color: #CECBCB;
+    text-align: center;
+}
+
+.productDetails {
+    float: left;
+    margin-left: 50px;
+}
+
+.productCost {
+    margin-bottom: 5px;
+}
+
+.productImage {
+    float: left;
+    width: 60px;
+    height: 60px;
+    margin: 5px 10px 0 15px;
+    border-radius: 40px;
+    background-color: #D6E9FE;
+}
