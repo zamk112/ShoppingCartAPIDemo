@@ -5,9 +5,9 @@
     <CheckOut>false</CheckOut>
     <Product>
       <Id>1</Id>
-      <Name>Banana</Name>
-      <Cost>100.5</Cost>
-      <Image>BananaImage</Image>
+      <Name>Camera</Name>
+      <Cost>50</Cost>
+      <Image>CameraImage</Image>
     </Product>
   </Item>
   <Item>
@@ -25,9 +25,9 @@
     <CheckOut>false</CheckOut>
     <Product>
       <Id>2</Id>
-      <Name>Milk</Name>
-      <Cost>2.75</Cost>
-      <Image>MilkImage</Image>
+      <Name>Keyboard</Name>
+      <Cost>10.75</Cost>
+      <Image>KeyboardImage</Image>
     </Product>
   </Item>
   <Item>
@@ -45,14 +45,14 @@
     <CheckOut>false</CheckOut>
     <Product>
       <Id>3</Id>
-      <Name>Bread</Name>
-      <Cost>1</Cost>
-      <Image>BreadImage</Image>
+      <Name>Book</Name>
+      <Cost>3</Cost>
+      <Image>BookImage</Image>
     </Product>
   </Item>
   <Item>
     <Id>6</Id>
-    <CheckOut>true</CheckOut>
+    <CheckOut>false</CheckOut>
     <Product>
       <Id>6</Id>
       <Name>Pen</Name>
